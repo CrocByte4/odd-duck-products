@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color:deeppink;
+  color:white;
+}
+
+main {
+  width:80%;
+  margin: 3rem auto;
+}
+
+.container{
+  display:grid;
+  border:1px solid black;
+  display: flex;
+}
+
+.container div{
+  background-color:darkkhaki;
+  margin
+}
