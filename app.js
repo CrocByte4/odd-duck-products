@@ -3,7 +3,7 @@ function getRandomProductIndex() {
 }
 
 let totalClicks = 0;
-const maxClicks = 10;
+const maxClicks = 25;
 function Product(name, src) {
   this.name = name;
   this.src = src;
